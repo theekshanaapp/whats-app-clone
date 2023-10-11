@@ -1,0 +1,15 @@
+:root {
+    --app-color: #075E54;
+    --app-sub-color: #128C7E;
+    --bg-color: #e5ddd5;
+    --notification-color: #25D366;
+    --msg-color: #dbf6c5;
+}
+html, body {
+    height: 100%;
+}
+body {
+    font-family: 'poppins';
+    background-color: var(--bg-color);
+    background-image: url('../images/bg.png');
+}
